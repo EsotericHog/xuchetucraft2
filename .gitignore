@@ -1,0 +1,9 @@
+.env
+.venv/
+mypy.ini
+__pycache__/
+.mypy_cache/
+Xuchetucraft2.spec
+build/
+dist/
+google_cloud_credentials.json
